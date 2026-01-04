@@ -37,10 +37,3 @@ Open the project folder
 
 Open index.html in your browser
 
-🧾 Portfolio Description
-🔐 Login Page
-
-A clean, responsive login web page built with HTML, CSS, and JavaScript.
-The layout automatically resizes to look great on any device — from phones to desktops.
-
-Live demo: https://sandes-journey.github.io/Login/
